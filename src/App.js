@@ -8,7 +8,9 @@ function App() {
   return (
     <div className="App">
       <TopBar />
-      <h1>Hi, I am Nathan . I am full stack developer and I love what I do.</h1>
+      <h1>
+        Hi, I am Nathan . I am full stack developer and I love what I do..
+      </h1>
       <PreviewProjects />
     </div>
   );

@@ -20,8 +20,7 @@ function App() {
         <Route path="/About" component={About} />
       </Router>
 
-      <h1>Hi, I am Nathan . I am full stack developer and I love what I do.</h1>
-      <PreviewProjects />
+      {/* <PreviewProjects /> */}
       <ProjectCards />
     </div>
   );
